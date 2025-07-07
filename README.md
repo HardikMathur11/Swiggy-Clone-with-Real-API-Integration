@@ -1,43 +1,36 @@
-📌 Project Title
-🍽️ Swiggy Clone with Real API Integration
+# Swiggy Clone - Real API Integration
 
-🚀 Live Demo
-Add a link if deployed (Netlify, Vercel, etc.)
+A modern, production-like Swiggy Clone built using React. This isn't just a basic UI clone — it dynamically fetches real data from Swiggy's APIs, handles CORS, and implements advanced features like routing and cart management with Redux.
 
-🔥 Features
-Real-world Swiggy live API integration
-
-CORS handled using middleware/proxy
-
-Fully functional Cart System with Redux (Add/Inc/Dec/Remove)
-
-Route-based navigation with React Router
-
-Optimized Component structure & dynamic data rendering
-
-Clean UI with loading placeholders and error handling
-
-📁 Tech Stack
-React
-
-Redux Toolkit
-
-React Router DOM
-
-Tailwind CSS (or whichever CSS framework you used)
-
-Swiggy's Real API (dynamically fetched)
-
-Parcel/Babel (optional)
-
-⚙️ Setup Instructions
 ---
-git clone https://github.com/your-username/swiggy-clone.git
-cd swiggy-clone
 
+## Features
+
+- Real Swiggy API integration for dynamic restaurant and menu data  
+- CORS error handling using proxy/middleware  
+- Redux Toolkit for cart management (add, increase, decrease, remove items)  
+- Route-based navigation using React Router  
+- Clean component structure with error and loading handling  
+- Responsive UI and performance-optimized  
+
+---
+
+## Tech Stack
+
+- React JS  
+- Redux Toolkit  
+- React Router DOM  
+- Tailwind CSS (or your choice of styling)  
+- Parcel (or your bundler)  
+
+---
+
+## Getting Started
+
+Follow these steps to run the project locally.
+
+```
+Clone the repository
+cd swiggy-clone
 npm install
 npm start
----
-
-🙌 Special Mentions
-Handled tricky CORS errors, implemented real-time data fetch, and added robust state management using Redux.
