@@ -1,0 +1,53 @@
+
+node_modules/
+
+# Parcel cache
+.parcel-cache/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# macOS trash folder
+.Trashes
+
+# Coverage files
+coverage/
+
+# Ignore all images or videos accidentally committed (optional)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.mp4
+*.mov
+
+# You can uncomment below to ignore all files larger than 10MB (safe limit)
+# This needs to be configured with .gitattributes or use Git LFS if required
+# Here's an optional precaution tip:
+# *.zip
+# *.rar
+# *.tar.gz
