@@ -20,8 +20,8 @@ A modern, production-like Swiggy Clone built using React. This isn't just a basi
 - React JS  
 - Redux Toolkit  
 - React Router DOM  
-- Tailwind CSS (or your choice of styling)  
-- Parcel (or your bundler)  
+- Tailwind CSS  
+- Parcel 
 
 ---
 
